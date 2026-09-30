@@ -1,5 +1,5 @@
 # Horizon
-![Horizon Preview](Image%2001.png)
+![Horizon Preview](Image%2002.png)
 
 
 A clean and customizable New Tab experience for your browser.
