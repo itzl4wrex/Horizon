@@ -112,4 +112,4 @@ If you encounter a bug or have a suggestion, feel free to open an **Issue** on t
 
 
 ##  Sorry
-I cant upload the extension to the google extension store because i dont have any payement method
+I can't upload the extension to the extension store because i dont have any payment method
