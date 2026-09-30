@@ -109,3 +109,7 @@ If Horizon doesn't load correctly:
 ## ⭐ Support
 
 If you encounter a bug or have a suggestion, feel free to open an **Issue** on this repository.
+
+
+##  Sorry
+I cant upload the extension to the google extension store because i dont have any payement method
