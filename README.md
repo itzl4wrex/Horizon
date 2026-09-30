@@ -1,5 +1,12 @@
 # Horizon
 
+![Horizon Preview]()
+
+A clean and customizable New Tab experience for your browser.
+
+
+# Horizon
+
 A clean and customizable New Tab experience for your browser.
 
 ## 📥 Installation
